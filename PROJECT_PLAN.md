@@ -3,7 +3,7 @@
 ## Final name
 
 **FlagDeck**  
-Composer package: `hekal/flagdeck` (adjust vendor on publish)  
+Composer package: `mohamedhekal/flagdeck` (adjust vendor on publish)  
 Suggested alternatives: `featuregate`, `rolloutkit`
 
 ## Product vision
