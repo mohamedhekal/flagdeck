@@ -2,7 +2,7 @@
 
 Production-minded feature flags for Laravel: boolean switches, percentage rollouts, and first-class user/tenant targeting—without a hosted feature-flag SaaS.
 
-[![Tests](https://github.com/mohamedmohamedhekal/flagdeck/actions/workflows/tests.yml/badge.svg)](https://github.com/mohamedmohamedhekal/flagdeck/actions/workflows/tests.yml)
+[![Tests](https://github.com/mohamedhekal/flagdeck/actions/workflows/tests.yml/badge.svg)](https://github.com/mohamedhekal/flagdeck/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Replace the badge URLs with your GitHub org/user once the repository is published.

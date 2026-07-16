@@ -1,5 +1,5 @@
 {
-    "name": "mohamedmohamedhekal/flagdeck",
+    "name": "mohamedhekal/flagdeck",
     "description": "Production-ready feature flags, percentage rollouts, and tenant targeting for Laravel",
     "type": "library",
     "license": "MIT",
@@ -73,9 +73,9 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "homepage": "https://github.com/mohamedmohamedhekal/flagdeck",
+    "homepage": "https://github.com/mohamedhekal/flagdeck",
     "support": {
-        "issues": "https://github.com/mohamedmohamedhekal/flagdeck/issues",
-        "source": "https://github.com/mohamedmohamedhekal/flagdeck"
+        "issues": "https://github.com/mohamedhekal/flagdeck/issues",
+        "source": "https://github.com/mohamedhekal/flagdeck"
     }
 }
