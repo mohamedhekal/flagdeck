@@ -10,7 +10,12 @@
         "rollouts",
         "multi-tenancy",
         "saas",
-        "experimentation"
+        "experimentation",
+        "php",
+        "laravel-package",
+        "feature-flag",
+        "ab-testing",
+        "entitlements"
     ],
     "authors": [
         {
@@ -67,5 +72,10 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "homepage": "https://github.com/mohamedhekal/flagdeck",
+    "support": {
+        "issues": "https://github.com/mohamedhekal/flagdeck/issues",
+        "source": "https://github.com/mohamedhekal/flagdeck"
+    }
 }
